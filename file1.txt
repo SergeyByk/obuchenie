@@ -1,6 +1,6 @@
 cinflict1
+neconflict
 commit test
 coders
-
 digital hub.
 add line
